@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Go<br>👨‍💻 Love to reverse engeneer at free time</p>
+<p align="left">📚 I'm currently learning Go<br>👨‍💻 Reverse engeneering at free time</p>
 
 ###
 
