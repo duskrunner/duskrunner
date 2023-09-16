@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">💻︎ Tool I use</h2>
+<h2 align="left">💻︎ Tools I use</h2>
 
 ###
 
