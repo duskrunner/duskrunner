@@ -15,11 +15,13 @@
 ###
 
 <div align="left">
+  <img src="https://manjaro.org/logo.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://wezfurlong.org/wezterm/favicon.svg" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://github.com/tmux/tmux/raw/master/logo/icons/128x128/tmux.png?raw=true" height="40" alt="docker logo"  />
 </div>
 
 ###
